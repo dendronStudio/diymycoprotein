@@ -1,3 +1,4 @@
+![IMG_20210418_193432356](https://user-images.githubusercontent.com/57116898/115945163-a1f23280-a477-11eb-929d-a56241fb255b.jpg)
 # diymycoprotein
 Open Source Mycoprotein System, DIY Equipment, Media Recipes
 
