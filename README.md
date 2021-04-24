@@ -11,19 +11,20 @@ Shoot me a message if you have ideas or experience to share.
 
 April 2021 Batch #1
 
-1 liter
-10 g mesquite flour
-10 g yeast
-5 g molasses
-5 g table sugar
-.005 ml coconut oil (one tiny drop will do)
-.5 g epsom salts
-.06 g table salt
-.5 g gypsum (garden, no additives)
+1 liter water,
+10 g mesquite flour,
+10 g yeast,
+5 g molasses,
+5 g table sugar,
+.005 ml coconut oil (one tiny drop will do),
+.5 g epsom salts,
+.06 g table salt,
+.5 g gypsum (garden, no additives),
+remember the magnetic stir bar!
 
 Pressure cooked in 2 liter jar, #15, 15 mins, cool (overnight)
 innoculate via injection with 3cc liquid spawn
-incubate at 78F(25C), 5 days
+incubate at 78F(25C), magnetic stir plate about 200 rpm, 5 days
 heat to 170F for 40 minutes to reduce rna
 strain and press to remove excess moisture
 
